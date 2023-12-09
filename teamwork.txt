@@ -1,0 +1,4 @@
+Sreya -- Sentiment Analysis, Introduction, Conclusion
+Hermione -- Lyric Length and Energy Analysis, Introduction, Data Cleaning and Description, Conclusion
+Pranavi -- BERT classification, Introduction, Conclusion
+Neha -- Topic Modeling, Introduction, Data Description, Conclusion, Git Management
